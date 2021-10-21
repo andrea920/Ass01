@@ -1,0 +1,10 @@
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\bin\Debug\Ass1_andrea.exe.config
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\bin\Debug\Ass1_andrea.exe
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\bin\Debug\Ass1_andrea.pdb
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.csproj.AssemblyReference.cache
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.Form1.resources
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.Properties.Resources.resources
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.csproj.GenerateResource.cache
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.csproj.CoreCompileInputs.cache
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.exe
+C:\Users\Marina de Robles\source\repos\Ass1_andrea\Ass1_andrea\obj\Debug\Ass1_andrea.pdb
